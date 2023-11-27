@@ -943,7 +943,7 @@
     "@types/expect" "^1.20.4"
     "@types/node" "*"
 
-"@typescript-eslint/eslint-plugin@^6.11.0":
+"@typescript-eslint/eslint-plugin@^6.12.0":
   version "6.12.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/eslint-plugin/-/eslint-plugin-6.12.0.tgz#2a647d278bb48bf397fef07ba0507612ff9dd812"
   integrity sha512-XOpZ3IyJUIV1b15M7HVOpgQxPPF7lGXgsfcEIu3yDxFPaf/xZKt7s9QO/pbk7vpWQyVulpJbu4E5LwpZiQo4kA==
@@ -960,7 +960,7 @@
     semver "^7.5.4"
     ts-api-utils "^1.0.1"
 
-"@typescript-eslint/parser@^6.11.0":
+"@typescript-eslint/parser@^6.12.0":
   version "6.12.0"
   resolved "https://registry.yarnpkg.com/@typescript-eslint/parser/-/parser-6.12.0.tgz#9fb21ed7d88065a4a2ee21eb80b8578debb8217c"
   integrity sha512-s8/jNFPKPNRmXEnNXfuo1gemBdVmpQsK1pcu+QIvuNJuhFzGrpD7WjOcvDc/+uEdfzSYpNu7U/+MmbScjoQ6vg==
@@ -2285,18 +2285,18 @@ escape-string-regexp@^1.0.5:
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
 eslint-config-oclif-typescript@^3:
-  version "3.0.18"
-  resolved "https://registry.yarnpkg.com/eslint-config-oclif-typescript/-/eslint-config-oclif-typescript-3.0.18.tgz#9fd805de2ebf2a9b104fc4655672dc8fc258423b"
-  integrity sha512-mAd8rinNtk9weqAF8HVM1s6GA81qOg711dQ5b5I7+CgvjEpSJGiCpt0BelbajOVgk2LSrCaPqL9TG4oiza1/uw==
+  version "3.0.21"
+  resolved "https://registry.yarnpkg.com/eslint-config-oclif-typescript/-/eslint-config-oclif-typescript-3.0.21.tgz#463916df2f918c5608b79d4d9ce36d392ef9a6a4"
+  integrity sha512-LkZo5FbaqD6lbPiGfPINK4RqPQAf/zaqY3cM3h6Zjda5ntpC3ZkBfDQEArKERa3Yr4ucHiaDIUVNIZcUmNcjPA==
   dependencies:
-    "@typescript-eslint/eslint-plugin" "^6.11.0"
-    "@typescript-eslint/parser" "^6.11.0"
+    "@typescript-eslint/eslint-plugin" "^6.12.0"
+    "@typescript-eslint/parser" "^6.12.0"
     eslint-config-xo-space "^0.34.0"
     eslint-import-resolver-typescript "^3.6.1"
     eslint-plugin-import "^2.29.0"
     eslint-plugin-mocha "^10.2.0"
     eslint-plugin-node "^11.1.0"
-    eslint-plugin-perfectionist "^2.4.0"
+    eslint-plugin-perfectionist "^2.4.2"
 
 eslint-config-oclif@^5:
   version "5.0.0"
@@ -2407,7 +2407,7 @@ eslint-plugin-node@^11.1.0:
     resolve "^1.10.1"
     semver "^6.1.0"
 
-eslint-plugin-perfectionist@^2.4.0:
+eslint-plugin-perfectionist@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/eslint-plugin-perfectionist/-/eslint-plugin-perfectionist-2.4.2.tgz#114999913e60affff5608fb8390330fbca655fe9"
   integrity sha512-PaNwDCH+VYvG9uACKF4Vb3jBM8SjCPJXBpiFvTKUuJI07aqKWp+Q4NEa1hD4dj+ZVE0oYqAKX7DviEidiBlqIg==
